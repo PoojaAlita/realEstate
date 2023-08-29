@@ -1,0 +1,8 @@
+img.service_image.mb-3.w-5 {
+    width: 99px;
+    height: auto;
+    margin-top: 5px;
+}
+.error_color{
+    color: red;
+}
